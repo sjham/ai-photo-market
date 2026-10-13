@@ -1,5 +1,7 @@
 # 자세히 보면
 
+[실행 페이지](https://sjham.github.io/ai-photo-market/) · [GitHub 저장소](https://github.com/sjham/ai-photo-market)
+
 화면에 고정된 AI 시장 사진이 스크롤에 따라 확대·이동하고, 사진 위의 설명 상자로 여섯 가지 단서를 살펴보는 교육용 페이지입니다. 이미지·CSS·JavaScript가 모두 `index.html`에 들어 있어 이 파일 하나만 열어도 작동합니다. 외부 라이브러리, 폰트 다운로드, API 키가 필요 없습니다.
 
 ## GitHub에 올리고 배포하기
@@ -25,4 +27,4 @@
 
 사용자가 제공한 [NYT 참고 페이지](https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html)의 저장 HTML에서 확인한 고정 사진, 회색 설명 상자, 800ms 확대·이동 구조를 반영했습니다. 우리말 교육용 콘텐츠로 직접 구현한 페이지입니다. 이미지 생성 프롬프트는 `index.html`의 주석에 기록되어 있습니다.
 
-배포 설정은 [GitHub 공식 안내](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)를 따릅니다. 실제 배포 주소는 사용자가 저장소에 파일을 올린 후 만들어집니다.
+배포 설정은 [GitHub 공식 안내](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)를 따릅니다. 이 버전은 위 실행 페이지에 게시되어 있습니다. 새 저장소에 복사해 배포할 때는 아래 GitHub 설정 절차를 따르세요.
